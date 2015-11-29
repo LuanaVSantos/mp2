@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Mini Project 1</title>
+	<title>Mini Project </title>
 </head>
 <body>
 <form action="submit.php" method="POST" enctype="multipart/form-data">
