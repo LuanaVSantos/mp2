@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Gallery</title>
+	<title>Luana' Gallery</title>
 </head>
 <body>
 <?php
